@@ -39,23 +39,34 @@ Local anomaly detection in time series aims to identify anomalies that occur at 
 ### Self-Predictive Methods
 
 - Anomaly detection using autoencoders with nonlinear dimensionality reduction (2014)  [[pdf]](https://dl.acm.org/doi/10.1145/2689746.2689747)
-- Spacecraft anomaly detection and relation visualization via masked time series modeling (2019) [[pdf]](https://ieeexplore.ieee.org/document/8943031)
-- Anomaly detection for wind turbines based on the reconstruction of condition parameters using stacked denoising autoencoders (2020) [[pdf]](https://www.sciencedirect.com/science/article/pii/S0960148119313710)
-- Usad: Unsupervised anomaly detection on multivariate time series (2020) [[pdf]](https://dl.acm.org/doi/10.1145/3394486.3403392)
-- A deep neural network for unsupervised anomaly detection and diagnosis in multivariate time series data (2019) [[pdf]](https://arxiv.org/abs/1811.08055)
 - A novel approach for automatic acoustic novelty detection using a denoising autoencoder with bidirectional LSTM neural networks (2015) [[pdf]](https://ieeexplore.ieee.org/document/7178320)
 - Wind turbine fault detection using a denoising autoencoder with temporal information (2017) [[pdf]](https://ieeexplore.ieee.org/abstract/document/8059861)
-- Mad: Self-supervised masked anomaly detection task for multivariate time series (2022) [[pdf]](https://arxiv.org/abs/2205.02100) ESTE ES REFERENCIA 36
-- A novel approach for automatic acoustic novelty detection using a denoising autoencoder with bidirectional LSTM neural networks (2015) [[pdf]](https://ieeexplore.ieee.org/document/7178320)
-- A novel approach for automatic acoustic novelty detection using a denoising autoencoder with bidirectional LSTM neural networks (2015) [[pdf]](https://ieeexplore.ieee.org/document/7178320)
-- A novel approach for automatic acoustic novelty detection using a denoising autoencoder with bidirectional LSTM neural networks (2015) [[pdf]](https://ieeexplore.ieee.org/document/7178320)
-- A novel approach for automatic acoustic novelty detection using a denoising autoencoder with bidirectional LSTM neural networks (2015) [[pdf]](https://ieeexplore.ieee.org/document/7178320)
-- A novel approach for automatic acoustic novelty detection using a denoising autoencoder with bidirectional LSTM neural networks (2015) [[pdf]](https://ieeexplore.ieee.org/document/7178320)
-- A novel approach for automatic acoustic novelty detection using a denoising autoencoder with bidirectional LSTM neural networks (2015) [[pdf]](https://ieeexplore.ieee.org/document/7178320)
+- DeepAnT: A deep learning approach for unsupervised anomaly detection in time series (2018) [[pdf]](https://ieeexplore.ieee.org/document/8581424)
+- A deep neural network for unsupervised anomaly detection and diagnosis in multivariate time series data (2019) [[pdf]](https://arxiv.org/abs/1811.08055)
+- Spacecraft anomaly detection and relation visualization via masked time series modeling (2019) [[pdf]](https://ieeexplore.ieee.org/document/8943031)
+- USAD: Unsupervised anomaly detection on multivariate time series (2020) [[pdf]](https://dl.acm.org/doi/10.1145/3394486.3403392)
+- Anomaly detection for wind turbines based on the reconstruction of condition parameters using stacked denoising autoencoders (2020) [[pdf]](https://www.sciencedirect.com/science/article/pii/S0960148119313710)
+- Timeseries anomaly detection using temporal hierarchical one-class network (2020) [[pdf]](https://proceedings.neurips.cc/paper/2020/file/97e401a02082021fd24957f852e0e475-Paper.pdf)
+- DeepFIB: Self-imputation for time series anomaly detection (2021) [[pdf]](https://arxiv.org/abs/2112.06247)
+- Mad: Self-supervised masked anomaly detection task for multivariate time series (2022) [[pdf]](https://arxiv.org/abs/2205.02100)
+- DUMA: Dual Mask for Multivariate Time Series Anomaly Detection (2022) [[pdf]](https://ieeexplore.ieee.org/document/9969633)
+- Anomaly-PTG: a time series data-anomaly-detection transformer framework in multiple scenarios (2022) [[pdf]](https://www.mdpi.com/2079-9292/11/23/3955)
+- Efficient time series anomaly detection by multiresolution self-supervised discriminative network (2022) [[pdf]](https://www.sciencedirect.com/science/article/pii/S0925231222003435)
+- Self-Supervised Learning for Time-Series Anomaly Detection in Industrial Internet of Things (2022) [[pdf]](https://www.mdpi.com/2079-9292/11/14/2146)
+- An Unsupervised Short-and Long-Term Mask Representation for Multivariate Time Series Anomaly Detection (2022) [[pdf]](https://arxiv.org/abs/2208.09240)
+- MAD-SGCN: Multivariate Anomaly Detection with Self-learning Graph Convolutional Networks (2022) [[pdf]](https://ieeexplore.ieee.org/document/9835470)
+- AnomalyBERT: Self-Supervised Transformer for Time Series Anomaly Detection using Data Degradation Scheme. (2023) [[pdf]](https://arxiv.org/abs/2305.04468)
+
 ### Contrastive Methods
 
-
-### Self-Predictive + Contrastive Methods
+- A novel approach for automatic acoustic novelty detection using a denoising autoencoder with bidirectional LSTM neural networks (2015) [[pdf]](https://ieeexplore.ieee.org/document/7178320)
+- A novel approach for automatic acoustic novelty detection using a denoising autoencoder with bidirectional LSTM neural networks (2015) [[pdf]](https://ieeexplore.ieee.org/document/7178320)
+- A novel approach for automatic acoustic novelty detection using a denoising autoencoder with bidirectional LSTM neural networks (2015) [[pdf]](https://ieeexplore.ieee.org/document/7178320)
+- A novel approach for automatic acoustic novelty detection using a denoising autoencoder with bidirectional LSTM neural networks (2015) [[pdf]](https://ieeexplore.ieee.org/document/7178320)
+- A novel approach for automatic acoustic novelty detection using a denoising autoencoder with bidirectional LSTM neural networks (2015) [[pdf]](https://ieeexplore.ieee.org/document/7178320)
+- A novel approach for automatic acoustic novelty detection using a denoising autoencoder with bidirectional LSTM neural networks (2015) [[pdf]](https://ieeexplore.ieee.org/document/7178320)
+- A novel approach for automatic acoustic novelty detection using a denoising autoencoder with bidirectional LSTM neural networks (2015) [[pdf]](https://ieeexplore.ieee.org/document/7178320)
+- A novel approach for automatic acoustic novelty detection using a denoising autoencoder with bidirectional LSTM neural networks (2015) [[pdf]](https://ieeexplore.ieee.org/document/7178320)
 
 
 
