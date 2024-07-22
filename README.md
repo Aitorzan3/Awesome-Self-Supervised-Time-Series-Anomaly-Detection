@@ -32,7 +32,7 @@ Self-Supervised Time Series Anomaly Detection is a specialized field that builds
 - [Anomaly detection in time series: a comprehensive evaluation (2022)](https://www.vldb.org/pvldb/vol15/p1779-wenig.pdf)
 
 
-📍 Local Anomaly Detection in Time Series
+## 📍 Local Anomaly Detection in Time Series
 
 Local anomaly detection in time series aims to identify anomalies that occur at specific points or small segments within an individual time series. These anomalies typically represent minor but significant deviations from the expected behavior, such as sudden spikes or drops. The following papers delve into self-supervised methods and strategies for detecting local anomalies in time series data.
 
@@ -55,20 +55,28 @@ Local anomaly detection in time series aims to identify anomalies that occur at 
 - Self-Supervised Learning for Time-Series Anomaly Detection in Industrial Internet of Things (2022) [[pdf]](https://www.mdpi.com/2079-9292/11/14/2146)
 - An Unsupervised Short-and Long-Term Mask Representation for Multivariate Time Series Anomaly Detection (2022) [[pdf]](https://arxiv.org/abs/2208.09240)
 - MAD-SGCN: Multivariate Anomaly Detection with Self-learning Graph Convolutional Networks (2022) [[pdf]](https://ieeexplore.ieee.org/document/9835470)
-- AnomalyBERT: Self-Supervised Transformer for Time Series Anomaly Detection using Data Degradation Scheme. (2023) [[pdf]](https://arxiv.org/abs/2305.04468)
+- AnomalyBERT: Self-Supervised Transformer for Time Series Anomaly Detection using Data Degradation Scheme (2023) [[pdf]](https://arxiv.org/abs/2305.04468)
 
 ### Contrastive Methods
 
-- A novel approach for automatic acoustic novelty detection using a denoising autoencoder with bidirectional LSTM neural networks (2015) [[pdf]](https://ieeexplore.ieee.org/document/7178320)
-- A novel approach for automatic acoustic novelty detection using a denoising autoencoder with bidirectional LSTM neural networks (2015) [[pdf]](https://ieeexplore.ieee.org/document/7178320)
-- A novel approach for automatic acoustic novelty detection using a denoising autoencoder with bidirectional LSTM neural networks (2015) [[pdf]](https://ieeexplore.ieee.org/document/7178320)
-- A novel approach for automatic acoustic novelty detection using a denoising autoencoder with bidirectional LSTM neural networks (2015) [[pdf]](https://ieeexplore.ieee.org/document/7178320)
-- A novel approach for automatic acoustic novelty detection using a denoising autoencoder with bidirectional LSTM neural networks (2015) [[pdf]](https://ieeexplore.ieee.org/document/7178320)
-- A novel approach for automatic acoustic novelty detection using a denoising autoencoder with bidirectional LSTM neural networks (2015) [[pdf]](https://ieeexplore.ieee.org/document/7178320)
-- A novel approach for automatic acoustic novelty detection using a denoising autoencoder with bidirectional LSTM neural networks (2015) [[pdf]](https://ieeexplore.ieee.org/document/7178320)
-- A novel approach for automatic acoustic novelty detection using a denoising autoencoder with bidirectional LSTM neural networks (2015) [[pdf]](https://ieeexplore.ieee.org/document/7178320)
+- Neural contextual anomaly detection for time series (2021) [[pdf]](https://arxiv.org/abs/2107.07702)
+- Detecting anomalies within time series using local neural transformations (2022) [[pdf]](https://arxiv.org/abs/2202.03944)
+- Ts2vec: Towards universal representation of time series (2022) [[pdf]](https://arxiv.org/abs/2106.10466)
+- Contrastive predictive coding for anomaly detection in multi-variate time series data (2022) [[pdf]](https://arxiv.org/abs/2202.03639)
+- Stochastic pairing for contrastive anomaly detection on time series (2022) [[pdf]](https://ieeexplore.ieee.org/document/7178320)
+- DCdetector: Dual Attention Contrastive Representation Learning for Time Series Anomaly Detection (2023) [[pdf]](https://arxiv.org/abs/2306.10347)
+- Contrastive Time Series Anomaly Detection by Temporal Transformations (2023) [[pdf]](https://ieeexplore.ieee.org/document/10191358)
+- Learning Robust and Consistent Time Series Representations: A Dilated Inception-Based Approach (2023) [[pdf]](https://arxiv.org/abs/2306.06579)
+- Time-series Anomaly Detection via Contextual Discriminative Contrastive Learning (2023) [[pdf]](https://arxiv.org/pdf/2304.07898)
+- Unsafe Behavior Detection with Adaptive Contrastive Learning in Industrial Control Systems (2023) [[pdf]](https://ieeexplore.ieee.org/document/10190657)
+- TiCTok: Time-Series Anomaly Detection with Contrastive Tokenization (2023) [[pdf]](https://www.researchgate.net/publication/372871589_TiCTok_Time-Series_Anomaly_Detection_with_Contrastive_Tokenization)
 
+### Self-Predictive + Contrastive Methods
 
+- A deep neural network for unsupervised anomaly detection and diagnosis in multivariate time series data (2019) [[pdf]](https://arxiv.org/abs/1811.08055)
+- A deep neural network for unsupervised anomaly detection and diagnosis in multivariate time series data (2019) [[pdf]](https://arxiv.org/abs/1811.08055)
+- A deep neural network for unsupervised anomaly detection and diagnosis in multivariate time series data (2019) [[pdf]](https://arxiv.org/abs/1811.08055)
+- A deep neural network for unsupervised anomaly detection and diagnosis in multivariate time series data (2019) [[pdf]](https://arxiv.org/abs/1811.08055)
 
 ## 🌏 Global Anomaly Detection in Time Series
 
