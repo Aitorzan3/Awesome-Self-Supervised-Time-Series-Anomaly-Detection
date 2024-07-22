@@ -32,6 +32,46 @@ Self-Supervised Time Series Anomaly Detection is a specialized field that builds
 - [Anomaly detection in time series: a comprehensive evaluation (2022)](https://www.vldb.org/pvldb/vol15/p1779-wenig.pdf)
 
 
+📍 Local Anomaly Detection in Time Series
+
+Local anomaly detection in time series aims to identify anomalies that occur at specific points or small segments within an individual time series. These anomalies typically represent minor but significant deviations from the expected behavior, such as sudden spikes or drops. The following papers delve into self-supervised methods and strategies for detecting local anomalies in time series data.
+
+### Self-Predictive Methods
+
+- Anomaly detection using autoencoders with nonlinear dimensionality reduction (2014)  [[pdf]](https://dl.acm.org/doi/10.1145/2689746.2689747)
+- Spacecraft anomaly detection and relation visualization via masked time series modeling (2019) [[pdf]](https://ieeexplore.ieee.org/document/8943031)
+- Anomaly detection for wind turbines based on the reconstruction of condition parameters using stacked denoising autoencoders (2020) [[pdf]](https://www.sciencedirect.com/science/article/pii/S0960148119313710)
+- Usad: Unsupervised anomaly detection on multivariate time series (2020) [[pdf]](https://dl.acm.org/doi/10.1145/3394486.3403392)
+- A deep neural network for unsupervised anomaly detection and diagnosis in multivariate time series data (2019) [[pdf]](https://arxiv.org/abs/1811.08055)
+- A novel approach for automatic acoustic novelty detection using a denoising autoencoder with bidirectional LSTM neural networks (2015) [[pdf]](https://ieeexplore.ieee.org/document/7178320)
+- Wind turbine fault detection using a denoising autoencoder with temporal information (2017) [[pdf]](https://ieeexplore.ieee.org/abstract/document/8059861)
+- Mad: Self-supervised masked anomaly detection task for multivariate time series (2022) [[pdf]](https://arxiv.org/abs/2205.02100) ESTE ES REFERENCIA 36
+- A novel approach for automatic acoustic novelty detection using a denoising autoencoder with bidirectional LSTM neural networks (2015) [[pdf]](https://ieeexplore.ieee.org/document/7178320)
+- A novel approach for automatic acoustic novelty detection using a denoising autoencoder with bidirectional LSTM neural networks (2015) [[pdf]](https://ieeexplore.ieee.org/document/7178320)
+- A novel approach for automatic acoustic novelty detection using a denoising autoencoder with bidirectional LSTM neural networks (2015) [[pdf]](https://ieeexplore.ieee.org/document/7178320)
+- A novel approach for automatic acoustic novelty detection using a denoising autoencoder with bidirectional LSTM neural networks (2015) [[pdf]](https://ieeexplore.ieee.org/document/7178320)
+- A novel approach for automatic acoustic novelty detection using a denoising autoencoder with bidirectional LSTM neural networks (2015) [[pdf]](https://ieeexplore.ieee.org/document/7178320)
+- A novel approach for automatic acoustic novelty detection using a denoising autoencoder with bidirectional LSTM neural networks (2015) [[pdf]](https://ieeexplore.ieee.org/document/7178320)
+### Contrastive Methods
+
+
+### Self-Predictive + Contrastive Methods
+
+
+
+## 🌏 Global Anomaly Detection in Time Series
+
+Global anomaly detection in time series refers to the identification of entire time series that act as outliers in a dataset comprising numerous sequences. The methods employed in this scenario aim to uncover global patterns that characterize the sequences across the entire dataset at the sample level. The following papers provide a comprehensive overview of various techniques and advancements in detecting global anomalies in time series data by means of self-supervised learning.
+
+### Self-Predictive Methods
+
+
+### Contrastive Methods
+
+
+### Self-Predictive + Contrastive Methods
+
+
 
 
 
