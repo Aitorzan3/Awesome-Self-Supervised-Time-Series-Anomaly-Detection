@@ -1,9 +1,22 @@
 # 📚 Awesome-Self-Supervised-Time-Series-Anomaly-Detection
 
 
-Welcome to this repository, where we gather some of the most relevant studies in the field of self-supervised learning for time series anomaly detection. These contributions are reviewed in our paper, [A Review on Self-Supervised Learning for Time Series Anomaly Detection: Recent Advances and Open Challenges](https://arxiv.org/abs/2501.15196).
+Welcome to this repository, where we gather some of the most relevant studies in the field of self-supervised learning for time series anomaly detection. These contributions are reviewed in our paper, [A Review on Self-Supervised Learning for Time Series Anomaly Detection: Recent Advances and Open Challenges](https://dl.acm.org/doi/10.1145/3770575).
 
-We hope you find it helpful. If you use this resource in your work, please consider citing our paper.
+We hope you find it helpful. If you use this resource in your work, please consider citing our paper:
+
+```bibtex
+@article{sanchez2025review,
+  title={A Review on Self-Supervised Learning in Time Series Anomaly Detection: Recent Advances and Open Challenges},
+  author={S{\'a}nchez-Ferrera, Aitor and Calvo, Borja and Lozano, Jose A},
+  journal={ACM Computing Surveys},
+  volume={58},
+  number={5},
+  pages={1--35},
+  year={2025},
+  publisher={ACM New York, NY}
+}
+```
 
 ## 📘 Theoretical Background
 
